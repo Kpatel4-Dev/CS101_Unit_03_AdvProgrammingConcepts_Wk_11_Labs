@@ -17,7 +17,7 @@ You'll explore real-world applications and enhance your coding fluency through h
 # Important Note about Usage of Tkinter Module in CodeSpaces/GitHub
 
 ---
-   ## 🐍 Tkinter GUI Projects – Coding in GitHub, Running in the Browser [tKinter_Trinket_ReadMe](Lab_05/iKinter_Trinket_README.md)
+   ## 🐍 Tkinter GUI Projects – Coding in GitHub, Running in the Browser [tKinter_Trinket_ReadMe](Lab_05/tKinter_Trinket_Instructions.md)
 
 Welcome to your Tkinter GUI lab!  
 In this assignment, you'll write Python code using **Tkinter**, Python’s built-in library for creating graphical user interfaces (GUIs).

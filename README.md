@@ -6,7 +6,7 @@ You'll explore real-world applications and enhance your coding fluency through h
 ### ✅ What to Complete
 - 1 Python Labs
     * [ ] Lab05: File I/O Basics:
-        ##### 📌 Lab 5 ModulesInPython Instructions: [Lab 5: GUI Modules](Unit03_AdvProgramming/Lab05/Lab05_Instruction_README.md)
+        ##### 📌 Lab 5 ModulesInPython Instructions: [Lab 5: GUI Modules](Lab_05/GUI_README.md)
 - Using Tkinter GUI Lab
 + Practice Exercises/Examples from tKinterGUI_Examples_Demos
   ---
